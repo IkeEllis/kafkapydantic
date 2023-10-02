@@ -1,0 +1,9 @@
+langchain==0.0.281
+openai==0.28.0
+pydantic==2.3.0
+kafka-python==2.0.2
+shap==0.42.1
+scikit-learn==1.2.0
+kafka-python==2.0.2
+numpy==1.23.5
+threadpoolctl==3.1.0
